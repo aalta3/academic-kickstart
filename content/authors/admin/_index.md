@@ -33,16 +33,6 @@ education:
   - course: Research Methods in Texts and Technology
     institution: University of Central Florida
     year: 2019
-  - course: Professionalization: Texts and Technology
-    institution: University of Central Florida
-    year: 2019
-  - course: Texts and Technology in History
-    institution: University of Central Florida
-    year: 2019
-  - course: Theories in Texts and Technology
-    institution: University of Central Florida
-    year: 2019
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
