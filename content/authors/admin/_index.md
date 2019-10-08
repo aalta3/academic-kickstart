@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: Ph.D Introduction to Texts and Technology
+  - course: Ph.D Texts and Technology
     institution: University of Central Florida
-    year: 2024
+    year: 2024 (projected)
   - course: M.S Technical Communication
     institution: Arizona State University
     year: 2017
