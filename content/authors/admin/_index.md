@@ -18,7 +18,7 @@ organizations:
   url: "https://tandt.cah.ucf.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include technical communication, digital humanities, and information technology.
+bio: My research interests include technical communication, professional and technical writing and information technology.
 
 interests:
 - Technical Writing
@@ -29,7 +29,7 @@ education:
   courses:
   - course: Ph.D. Texts and Technology
     institution: University of Central Florida
-    year: 2024
+    year: 2023
   - course: M.S Technical Communication
     institution: Arizona State University
     year: 2017
@@ -43,10 +43,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:aalta@ucf.knights.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/AmandaAltamira9
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
