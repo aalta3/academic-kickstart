@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "GenCoin"
   company_url = ""
   location = "California"
-  date_start = "present"
-  date_end = "2016-"
+  date_start = "2016"
+  date_end = ""
   description = """
   Responsibilities include:
 
