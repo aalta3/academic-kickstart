@@ -20,11 +20,17 @@ subtitle = ""
   name = "Adobe"
   description = "80%"
 
-[[feature]]
-  icon = "zotero"
-  icon_pack = "ai"
-  name = "Zotero"
-  description = "90%"
+  [[feature]]
+    icon = "apple"
+    icon_pack = "fab"
+    name = "Apple"
+    description = "80%"
+
+    [[feature]]
+      icon = "confluence"
+      icon_pack = "fab"
+      name = "Confluence"
+      description = "90%"
 
 [[feature]]
   icon = "git"
@@ -32,28 +38,22 @@ subtitle = ""
   name = "Git"
   description = "60%"  
 
+  [[feature]]
+    icon = "jira"
+    icon_pack = "fab"
+    name = "Jira"
+    description = "60%"
+
 [[feature]]
   icon = "markdown"
   icon_pack = "fab"
   name = "Markdown"
   description = "40%"
 
-[[feature]]
-  icon = "apple"
-  icon_pack = "fab"
-  name = "Apple"
-  description = "80%"
-
-  [[feature]]
-    icon = "confluence"
-    icon_pack = "fab"
-    name = "Confluence"
-    description = "90%"
-
-  [[feature]]
-    icon = "jira"
-    icon_pack = "fab"
-    name = "Jira"
-    description = "60%"
+    [[feature]]
+      icon = "zotero"
+      icon_pack = "ai"
+      name = "Zotero"
+      description = "90%"
 
 +++
