@@ -62,12 +62,6 @@ subtitle = ""
     name = "Microsoft"
     description = "70%"
 
-    [feature]]
-      icon = "squarespace"
-      icon_pack = "fab"
-      name = "Squarespace"
-      description = "70%"
-
     [[feature]]
       icon = "zotero"
       icon_pack = "ai"
