@@ -69,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-Amanda Altamirano is a professional Technical Writer and Content Writer. She is also a first year Ph.D. student studying Texts & Technology at the University of Central Florida. Her research interests include professional and technical communication, technical project management and software product documentation.
+Amanda Altamirano is a professional Technical Writer and Content Writer. She is also a first year Ph.D. student in the Texts & Technology program at the University of Central Florida. Her research interests include professional and technical communication, technical project management and software product documentation.
 
 As a longstanding member of the Society of Technical Communication, she recently served as Co-Manager of the Technical Editing Special Interest Group.
