@@ -15,10 +15,16 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
+  icon = "Adobe"
+  icon_pack = "fab"
+  name = "Adobe"
+  description = "80%"
+
+[[feature]]
   icon = "zotero"
   icon_pack = "ai"
   name = "Zotero"
-  description = "100%"
+  description = "90%"
 
 [[feature]]
   icon = "git"
@@ -27,9 +33,15 @@ subtitle = ""
   description = "60%"  
 
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "markdown"
+  icon_pack = "fab"
+  name = "Markdown"
+  description = "40%"
+
+  [[feature]]
+    icon = "markdown"
+    icon_pack = "fab"
+    name = "Markdown"
+    description = "40%"
 
 +++
