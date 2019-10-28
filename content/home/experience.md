@@ -46,10 +46,4 @@ date_format = "2006"
     date_end = "2016-01-01"
     description = """Business account manager supporting B2B hardware/software sales and facilitation of educational business events."""
 
-
-  #  * Analysing
-  #  * Modelling
-  #  * Deploying
-    """
-
 +++
