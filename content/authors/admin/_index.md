@@ -47,9 +47,6 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AmandaAltamira9
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: cv
   icon_pack: ai
   link: files/Altamirano_CV_2019.pdf
