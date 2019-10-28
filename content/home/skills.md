@@ -38,28 +38,22 @@ subtitle = ""
   name = "Markdown"
   description = "40%"
 
+[[feature]]
+  icon = "apple"
+  icon_pack = "fab"
+  name = "Apple"
+  description = "80%"
+
   [[feature]]
-    icon = "apple"
+    icon = "confluence"
     icon_pack = "fab"
-    name = "Apple"
-    description = "80%"
+    name = "Confluence"
+    description = "90%"
 
-    [[feature]]
-      icon = "Microsoft"
-      icon_pack = "fab"
-      name = "Microsoft"
-      description = "60%"
-
-    [feature]]
-      icon = "confluence"
-      icon_pack = "fab"
-      name = "Confluence"
-      description = "90%"
-
-      [feature]]
-        icon = "jira"
-        icon_pack = "fab"
-        name = "Jira"
-        description = "60%"
+  [[feature]]
+    icon = "jira"
+    icon_pack = "fab"
+    name = "Jira"
+    description = "60%"
 
 +++
