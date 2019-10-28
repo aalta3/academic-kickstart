@@ -49,7 +49,7 @@ social:
   link: https://twitter.com/AmandaAltamira9
 - icon: cv
   icon_pack: ai
-  link: files/Altamirano_CV_2019.pdf _target="blank"
+  link: files/Altamirano_CV_2019.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
