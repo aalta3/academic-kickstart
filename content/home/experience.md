@@ -22,11 +22,11 @@ date_format = "Jan 2006"
   company = "GenCoin"
   company_url = ""
   location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  date_start = "present"
+  date_end = "2016-"
   description = """
   Responsibilities include:
-  
+
   * Analysing
   * Modelling
   * Deploying
