@@ -24,7 +24,13 @@ subtitle = ""
     icon = "apple"
     icon_pack = "fab"
     name = "Apple"
-    description = "80%"
+    description = "85%"
+
+    [[feature]]
+      icon = "blogger"
+      icon_pack = "fab"
+      name = "Blogger"
+      description = "75%"
 
     [[feature]]
       icon = "confluence"
@@ -49,6 +55,18 @@ subtitle = ""
   icon_pack = "fab"
   name = "Markdown"
   description = "40%"
+
+  [feature]]
+    icon = "microsoft"
+    icon_pack = "fab"
+    name = "Microsoft"
+    description = "70%"
+
+    [feature]]
+      icon = "squarespace"
+      icon_pack = "fab"
+      name = "Squarespace"
+      description = "70%"
 
     [[feature]]
       icon = "zotero"
