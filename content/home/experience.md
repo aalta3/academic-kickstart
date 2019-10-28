@@ -25,7 +25,8 @@ date_format = "2006"
   date_start = "2018-01-01"
   date_end = "2019-01-01"
   description = """
-  Course: Introduction to Oral Communication"""
+  Course: Introduction to Oral Communication
+  """
 
 [[experience]]
   title = "Professor"
@@ -42,7 +43,7 @@ date_format = "2006"
     company_url = "https://www.seminolestate.edu/"
     location = "Florida"
     date_start = "2018-01-01"
-    date_end = "2019"
+    date_end = "2019-01-01"
     description = """
     Course: Introduction to Oral Communication
 
