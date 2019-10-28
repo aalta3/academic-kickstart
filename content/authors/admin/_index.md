@@ -46,7 +46,7 @@ social:
   link: "mailto:aalta@ucf.knights.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: hhttps://www.linkedin.com/in/amandaswiontek/
+  link: https://www.linkedin.com/in/amandaswiontek/
 - icon: cv
   icon_pack: ai
   link: https://drive.google.com/file/d/1oxTY5c_P-W5dyrp-Gw9PQLAhgmXafI1n/view?usp=sharing
