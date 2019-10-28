@@ -56,7 +56,7 @@ subtitle = ""
   name = "Markdown"
   description = "40%"
 
-  [feature]]
+  [[feature]]
     icon = "microsoft"
     icon_pack = "fab"
     name = "Microsoft"
