@@ -32,10 +32,19 @@ date_format = "2006"
   title = "Technical Writer"
   company = "accesso, LLC"
   company_url = "https://accesso.com/"
-  location = "Florida"
+  location = "Remote"
   date_start = "2016-01-01"
   date_end = ""
   description = """Documents and writes product documentation for the accesso suite of applications, both for client and internal consumption. Writes and maintains: product documentation, knowledge base documentation, known issues and training manuals. Provides guidance to staff on document style and branding."""
+
+  [[experience]]
+    title = "Writer"
+    company = "ContentWriters, LLC"
+    company_url = "https://contentwriters.com/"
+    location = "Remote"
+    date_start = "2016-01-01"
+    date_end = ""
+    description = """Writer specializing in tech and internet. Supplies writing services for businesses, which include: blog posts, email newsletters, Facebook and LinkedIn posts, press releases, product descriptions, tweets, website pages, white papers and more."""
 
   [[experience]]
     title = "Business Specialist"
