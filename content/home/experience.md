@@ -18,7 +18,7 @@ date_format = "2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Full-time adjunct instructor"
+  title = "Professor"
   company = "Seminole State Community College"
   company_url = "https://www.seminolestate.edu/"
   location = "Florida"
@@ -29,27 +29,27 @@ date_format = "2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
+  title = "Technical Writer"
+  company = "accesso, LLC"
+  company_url = "https://accesso.com/"
+  location = "Florida"
   date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_end = ""
+  description = """Documents and writes product documentation for the accesso suite of applications, both for client and internal consumption. Writes and maintains: product documentation, knowledge base documentation, known issues and training manuals. Provides guidance to staff on document style and branding."""
 
   [[experience]]
-    title = "Full-time adjunct instructor"
-    company = "Seminole State Community College"
-    company_url = "https://www.seminolestate.edu/"
+    title = "Business Specialist"
+    company = "Apple, Inc."
+    company_url = "https://www.apple.com/business/"
     location = "Florida"
-    date_start = "2018-01-01"
-    date_end = "2019-01-01"
-    description = """
-    Course: Introduction to Oral Communication
+    date_start = "2010-01-01"
+    date_end = "2016-01-01"
+    description = """Business account manager supporting B2B hardware/software sales and facilitation of educational business events."""
 
-    * Analysing
-    * Modelling
-    * Deploying
+
+  #  * Analysing
+  #  * Modelling
+  #  * Deploying
     """
 
 +++
