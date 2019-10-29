@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Texts & Technology Ph.D. Student
+role: Professional and technical communication writer, Texts & Technology Ph.D. student
 
 # Organizations/Affiliations
 organizations:
@@ -18,18 +18,19 @@ organizations:
   url: "https://tandt.cah.ucf.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include technical communication, professional and technical writing and information technology.
+bio: My research interests include technical communication, professional and technical writing, and information technology.
 
 interests:
 - Technical Writing
 - Software Product Documentation
 - Technical Project Management
+- Professional Writing for Technology-based Businesses
 
 education:
   courses:
   - course: Ph.D. Texts and Technology
     institution: University of Central Florida
-    year: 2023
+    year: 2024
   - course: M.S Technical Communication
     institution: Arizona State University
     year: 2017
