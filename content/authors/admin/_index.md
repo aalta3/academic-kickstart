@@ -18,13 +18,13 @@ organizations:
   url: "https://tandt.cah.ucf.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include technical communication, professional and technical writing, and information technology.
+bio: My research interests include technical communication, professional and technical writing, and software product documentation.
 
 interests:
-- Technical Writing
-- Software Product Documentation
-- Technical Project Management
-- Professional Writing for Technology-based Businesses
+- Technical writing and editing
+- Software product documentation
+- Project management
+- User experience
 
 education:
   courses:
@@ -47,13 +47,13 @@ social:
   link: "mailto:aalta@ucf.knights.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/amandaswiontek/
+  link: https://www.linkedin.com/in/amandaaltamirano/
 - icon: cv
   icon_pack: ai
   link: https://drive.google.com/file/d/1oxTY5c_P-W5dyrp-Gw9PQLAhgmXafI1n/view?usp=sharing
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/AmandaAltamira9
+  link: https://twitter.com/AmandaAlta3
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +70,8 @@ email: ""
 #- Visitors
 ---
 
-Amanda Altamirano is a professional Technical and Content Writer. She is also a first year Ph.D. student in the Texts & Technology program at the University of Central Florida. Her research interests include professional and technical communication, technical project management and software product documentation.
+Amanda Altamirano is a professional and technical writer with over two decades experience in the technology industry. She is also a second year Ph.D. student in the Texts & Technology program at the University of Central Florida. Her area of specialization is Scientific and Technical Communication.
+
+Her research interests include leveraging project management and user experience strategies to elevate the technical communication field.
 
 As a longstanding member of the Society of Technical Communication, she recently served as Co-Manager of the Technical Editing Special Interest Group.
