@@ -50,7 +50,7 @@ social:
   link: https://www.linkedin.com/in/amandaaltamirano/
 - icon: cv
   icon_pack: ai
-  link: https://drive.google.com/file/d/1oxTY5c_P-W5dyrp-Gw9PQLAhgmXafI1n/view?usp=sharing
+  link: https://drive.google.com/file/d/1nNpoAQFvR5HF36ldWsy9Xq14rkY-VlVZ/view?usp=sharing
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AmandaAlta3
