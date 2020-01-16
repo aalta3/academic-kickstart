@@ -30,7 +30,7 @@ date_format = "2006"
 
 [[experience]]
   title = "Technical Writer"
-  company = "accesso, LLC"
+  company = "accesso Technology Group, PLC"
   company_url = "https://accesso.com/"
   location = "Remote"
   date_start = "2016-01-01"
@@ -39,12 +39,12 @@ date_format = "2006"
 
   [[experience]]
     title = "Writer"
-    company = "ContentWriters, LLC"
+    company = "ContentWriters.com LLC"
     company_url = "https://contentwriters.com/"
     location = "Remote"
     date_start = "2016-01-01"
     date_end = ""
-    description = """Writer specializing in tech and internet. Supplies writing services for businesses, which include: blog posts, email newsletters, Facebook and LinkedIn posts, press releases, product descriptions, tweets, website pages, white papers and more."""
+    description = """Writing services for technology and internet-based businesses. Writes blog posts, email newsletters, Facebook and LinkedIn posts, press releases, product descriptions, tweets, website pages, white papers and more."""
 
   [[experience]]
     title = "Business Specialist"
