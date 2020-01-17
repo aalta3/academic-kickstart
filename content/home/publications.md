@@ -31,6 +31,11 @@ subtitle = ""
     publication_type = ""
     exclude_featured = false
 
+      page_type = "publication"
+      count = 0
+      offset = 0
+      order = "desc"
+
 [design]
   # Toggle between the various page layout types.
   #   1 = List
