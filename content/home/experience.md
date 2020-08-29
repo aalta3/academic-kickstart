@@ -18,15 +18,30 @@ date_format = "2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Professor"
-  company = "Seminole State Community College"
-  company_url = "https://www.seminolestate.edu/"
-  location = "Florida"
-  date_start = "2018-01-01"
-  date_end = "2019-01-01"
+  title = "Documentation Developer"
+  company = "accesso Technology Group, plc."
+  company_url = "https://www.accesso.com/"
+  location = "Remote"
+  date_start = "2020-01-01"
+  date_end = ""
   description = """
-  Course: Introduction to Oral Communication
+  -- Provide guidance to writers for documenting software product release notes and update instructions.
+  -- Collaborate with leadership, SMEs and other cross-functional teams to ensure timely delivery of public-facing documents.
   """
+
+  [[experience]]
+    title = "Technical Content Director"
+    company = "IDmission, LLC"
+    company_url = "https://www.idmission.com/"
+    location = "Remote"
+    date_start = "2020-05-01"
+    date_end = "2020-08-01"
+    description = """
+    -- Bring excellence and innovation to communication practices including technical written communications and persuasive storytelling.
+    -- Drive the technical content strategy while maintaining editorial oversight of corporate and global content programs.
+    -- Own and evolve brand standards and brand experience across all channels.
+    -- Collaborate on employee and executive communications projects as needed.
+    """
 
 [[experience]]
   title = "Technical Writer"
@@ -34,8 +49,19 @@ date_format = "2006"
   company_url = "https://accesso.com/"
   location = "Remote"
   date_start = "2016-01-01"
-  date_end = ""
+  date_end = "2020-06-01"
   description = """Documents and writes product documentation for the accesso suite of applications, both for client and internal consumption. Writes and maintains: product documentation, knowledge base documentation, known issues and training manuals. Provides guidance to staff on document style and branding."""
+
+  [[experience]]
+    title = "Professor"
+    company = "Seminole State Community College"
+    company_url = "https://www.seminolestate.edu/"
+    location = "Florida"
+    date_start = "2018-01-01"
+    date_end = "2019-01-01"
+    description = """
+    Course: Introduction to Oral Communication
+    """
 
   [[experience]]
     title = "Writer"
