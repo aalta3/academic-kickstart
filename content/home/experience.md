@@ -59,9 +59,7 @@ date_format = "2006"
     location = "Florida"
     date_start = "2018-01-01"
     date_end = "2019-01-01"
-    description = """
-    Course: Introduction to Oral Communication
-    """
+    description = """Course: Introduction to Oral Communication"""
 
   [[experience]]
     title = "Writer"
