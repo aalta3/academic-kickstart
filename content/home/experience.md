@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "January 2006"
+date_format = "2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -22,7 +22,7 @@ date_format = "January 2006"
   company = "accesso Technology Group, plc."
   company_url = "https://www.accesso.com/"
   location = "Remote"
-  date_start = "August 2020"
+  date_start = "2020"
   date_end = ""
   description = """
   -- Provide guidance to writers for documenting software product release notes and update instructions.
