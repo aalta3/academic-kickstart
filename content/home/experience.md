@@ -60,6 +60,7 @@ date_format = "2006"
     date_start = "2018-01-01"
     date_end = "2019-01-01"
     description = """Course: Introduction to Oral Communication"""
+    weight = 100
 
   [[experience]]
     title = "Writer"
