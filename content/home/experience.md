@@ -18,31 +18,30 @@ date_format = "2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[experience]]
-  title = "Documentation Developer"
-  company = "accesso Technology Group, plc."
-  company_url = "https://www.accesso.com/"
-  location = "Remote"
-  date_start = "2020"
-  date_end = ""
-  description = """
-  -Provide guidance to writers for documenting software product release notes and update instructions.
-  -Collaborate with leadership, SMEs and other cross-functional teams to ensure timely delivery of public-facing documents.
-  """
+#[[experience]]
+#  title = "Documentation Developer"
+#  company = "accesso Technology Group, plc."
+#  company_url = "https://www.accesso.com/"
+#  location = "Remote"
+#  date_start = "2020"
+#  date_end = ""
+#  description = """
+#  -Provide guidance to writers for documenting software product release notes and update instructions.
+#  -Collaborate with leadership, SMEs and other cross-functional teams to ensure timely delivery of public-facing documents.
+#  """
 
-  [[experience]]
-    title = "Technical Content Director"
-    company = "IDmission, LLC"
-    company_url = "https://www.idmission.com/"
-    location = "Remote"
-    date_start = "2020-05-01"
-    date_end = "2020-08-01"
-    description = """
-    -Bring excellence and innovation to communication practices including technical written communications and persuasive storytelling.
-    -Drive the technical content strategy while maintaining editorial oversight of corporate and global content programs.
-    -Own and evolve brand standards and brand experience across all channels.
-    -- Collaborate on employee and executive communications projects as needed.
-    """
+#  [[experience]]
+#    title = "Technical Content Director"
+#    company = "IDmission, LLC"
+#    location = "Remote"
+#    date_start = "2020-05-01"
+#    date_end = "2020-08-01"
+#    description = """
+#    -Bring excellence and innovation to communication practices including technical written communications and persuasive storytelling.
+#    -Drive the technical content strategy while maintaining editorial oversight of corporate and global content programs.
+#    --Own and evolve brand standards and brand experience across all channels.
+#    -- Collaborate on employee and executive communications projects as needed.
+#    """
 
 [[experience]]
   title = "Technical Writer"
