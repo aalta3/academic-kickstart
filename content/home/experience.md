@@ -49,7 +49,7 @@ date_format = "2006"
   company_url = "https://accesso.com/"
   location = "Remote"
   date_start = "2016-01-01"
-  date_end = "2020-06-01"
+  date_end = "2020-01-01"
   description = """Documents and writes product documentation for the accesso suite of applications, both for client and internal consumption. Writes and maintains: product documentation, knowledge base documentation, known issues and training manuals. Provides guidance to staff on document style and branding."""
 
   [[experience]]
@@ -60,7 +60,6 @@ date_format = "2006"
     date_start = "2018-01-01"
     date_end = "2019-01-01"
     description = """Course: Introduction to Oral Communication"""
-    weight = 100
 
   [[experience]]
     title = "Writer"
