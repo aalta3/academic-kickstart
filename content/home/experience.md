@@ -34,8 +34,8 @@ date_format = "2006-01"
     title = "Technical Content Director"
     company = "IDmission, LLC"
     location = "Remote"
-    date_start = "2020-01-01"
-    date_end = "2020-01-01"
+    date_start = "2020-05"
+    date_end = "2020-08"
     description = """Bring excellence and innovation to communication practices including technical written communications and persuasive storytelling. Drive the technical content strategy while maintaining editorial oversight of corporate and global content programs. Own and evolve brand standards and brand experience across all channels. Collaborate on employee and executive communications projects as needed."""
 
 [[experience]]
