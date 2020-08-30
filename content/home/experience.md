@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "January 2006"
+date_format = "2006-01-02"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -34,8 +34,8 @@ date_format = "January 2006"
     title = "Technical Content Director"
     company = "IDmission, LLC"
     location = "Remote"
-    date_start = "May 2020"
-    date_end = "August 2020"
+    date_start = "2020"
+    date_end = "2020"
     description = """Bring excellence and innovation to communication practices including technical written communications and persuasive storytelling. Drive the technical content strategy while maintaining editorial oversight of corporate and global content programs. Own and evolve brand standards and brand experience across all channels. Collaborate on employee and executive communications projects as needed."""
 
 [[experience]]
